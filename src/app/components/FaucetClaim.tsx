@@ -8,7 +8,7 @@ import erc20Abi from "../abis/MockERC20.json";
 
 const FAUCET_ADDRESS = "0xf2335e995494c1b7d24e6d94ae30A8970fE45706";
 const MOCK_USDC_ADDRESS = "0x0dFA97F1d8b29e366bbf08Fa253e82d9272a1f03";
-const BASE_SEPOLIA_CHAIN_ID = 11155111;
+const BASE_SEPOLIA_CHAIN_ID = 84532;
 const BASE_SEPOLIA_RPC = "https://sepolia.base.org";
 
 export default function FaucetClaim() {
